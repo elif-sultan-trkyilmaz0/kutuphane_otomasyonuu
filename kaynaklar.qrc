@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/resimler">
+        <file>otomasyon resimler/book.jpg</file>
+        <file>otomasyon resimler/odunc_1.jpg</file>
+        <file>otomasyon resimler/odunc_2.jpg</file>
+        <file>otomasyon resimler/user.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>otomasyon resimler/arkaplan.jpg</file>
+    </qresource>
+</RCC>
